@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">PageViewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_page_view">PageViewActivity</string>
+    <string name="action_settings">action_settings</string>
+
+</resources>
