@@ -31,7 +31,7 @@ public class PageViewActivity extends FragmentActivity {
     	
     	fList.add(MyFragment.newInstance("Fragment hello"));
     	fList.add(MyFragment.newInstance("Fragment yeeeah"));
-    	fList.add(MyFragment.newInstance("Fragment 3"));
+    	fList.add(MyFragment.newInstance("Fragment final"));
     	
     	return fList;
     }
